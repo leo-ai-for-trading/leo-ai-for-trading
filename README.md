@@ -10,3 +10,4 @@ My name is Attilio and i'm a Banking and Finance student from Italy.
 - [FIRE](https://firingfire.herokuapp.com/)  Third part of "The Smirk" project: Max Sharpe Ratio Portfolio of 5 stocks
 - [Trading the Crisis](https://tradingideas.herokuapp.com/) Trading during the crisis with a Macroeconomics approach
 - [Valuation Model. A Piotroski Approach](https://valuationideas.herokuapp.com/) Valuation Model Approach based on Piotroski f-score
+- [Lia API](https://rapidapi.com/attilio.pittelli.job@gmail.com/api/lia-defi/) API for quantitative data such as Crypto time series  and Macroeconomics data
