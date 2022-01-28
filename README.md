@@ -18,4 +18,4 @@ My name is Attilio and i'm a Banking and Finance student from Italy.
 - Big Data
 - Algorithm
 
-💬 Reach me by email or LinkedI: https://www.linkedin.com/in/attilio-pittelli-9b6515155
+💬 Reach me by LinkedI: https://www.linkedin.com/in/attilio-pittelli-9b6515155
