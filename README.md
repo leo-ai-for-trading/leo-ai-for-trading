@@ -1,9 +1,8 @@
-### Hi there, welcome to my page 👋
+## Hi there 👋
+### Welcome to my page 
 
-<!--
-**leo-ai-for-trading/leo-ai-for-trading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My name is Attilio and i'm a Banking and Finance student from Italy. 
-Here are some ideas to get you started:
+* My name is Attilio and i'm a Banking and Finance student from Italy. *
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
