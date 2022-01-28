@@ -11,3 +11,5 @@ My name is Attilio and i'm a Banking and Finance student from Italy.
 - [Trading the Crisis](https://tradingideas.herokuapp.com/) Trading during the crisis with a Macroeconomics approach
 - [Valuation Model. A Piotroski Approach](https://valuationideas.herokuapp.com/) Valuation Model Approach based on Piotroski f-score
 - [Lia API](https://rapidapi.com/attilio.pittelli.job@gmail.com/api/lia-defi/) API for quantitative data such as Crypto time series  and Macroeconomics data
+
+💬 Reach me by email or LinkedI: (https://www.linkedin.com/in/attilio-pittelli-9b6515155)
