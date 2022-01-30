@@ -16,7 +16,7 @@ My name is Attilio and i'm a Banking and Finance student from Italy.
 🌱 Interests:
 
 - Quantitative Finance
-- Big Data
+- Data Scie ce
 - Algorithm
 
 💬 Reach me by LinkedI: https://www.linkedin.com/in/attilio-pittelli-9b6515155
