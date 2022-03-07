@@ -2,7 +2,6 @@
 <h3 align="center">Banking and Finance student from Italy</h3>
 
 
-<img align="center" alt="Finance" width="200" src="https://images.app.goo.gl/io3zDR2koKLKCnq47">
 
 
 - 🔭 I’m currently working on [Competitive-Programming](https://github.com/leo-ai-for-trading/Competitive-Programming)
