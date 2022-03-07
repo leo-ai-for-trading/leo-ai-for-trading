@@ -2,7 +2,7 @@
 <h3 align="center">Banking and Finance student from Italy</h3>
 
 
-
+![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
 
 - 🔭 I’m currently working on [Competitive-Programming](https://github.com/leo-ai-for-trading/Competitive-Programming)
 
