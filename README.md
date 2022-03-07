@@ -4,7 +4,7 @@
 
 ![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
 
-- 🔭 I’m currently working on [Competitive-Programming](https://github.com/leo-ai-for-trading/Competitive-Programming)
+- 🔭 I’m currently working on [finance-dashboard](https://github.com/leo-ai-for-trading/finance-dashboard)
 
 - 🌱 I’m currently learning **React.js**
 
