@@ -29,5 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leo-ai-for-trading&show_icons=true&locale=en" alt="leo-ai-for-trading" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leo-ai-for-trading&" alt="leo-ai-for-trading" /></p>
-
