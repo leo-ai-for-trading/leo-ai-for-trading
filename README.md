@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate on **Open-source project**
 
 - 🔭 Project:
+- [Finance Dashboard](https://github.com/leo-ai-for-trading/finance-dashboard) Finance dashboard in Python by using **streamlit** for UI and getting data from r\wallstreetbets and Elon Musk twitter and insert in database using **sqlite**
 - [Max Sharpe Ratio Portfolio](https://github.com/leo-ai-for-trading/Finance-Object-Oriented-Programming-in-Python/tree/main/Max-Sharpe-Ratio-Portfolio-one-function) Optimization portfolio technique written in Python
 - [The Smirk](https://thesmirk.herokuapp.com/) A Quantitative Platform for backtesting strategies for users with no-coding knowledge
 - [The Smile](https://thesmile.herokuapp.com/) Second part of "The Smirk" project: applied ML models, using fbprophet library, for predicting stocks
