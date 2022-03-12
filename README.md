@@ -14,12 +14,12 @@
 - [Finance Dashboard](https://github.com/leo-ai-for-trading/finance-dashboard) in Python by using **streamlit** for UI and getting data from r\wallstreetbets and Elon Musk twitter and insert in database using **SQL**
 - [Max Sharpe Ratio Portfolio](https://github.com/leo-ai-for-trading/Finance-Object-Oriented-Programming-in-Python/tree/main/Max-Sharpe-Ratio-Portfolio-one-function) Optimization portfolio technique written in Python
 - [The Smirk](https://thesmirk.herokuapp.com/) A Quantitative Platform for backtesting strategies for users with no-coding knowledge
-- [The Smile](https://thesmile.herokuapp.com/) Second part of "The Smirk" project: applied ML models, using fbprophet library, for predicting stocks
+- [The Smile](https://thesmile.herokuapp.com/) Second part of "The Smirk" project: applied **ML models**, using **fbprophet** library, for predicting stocks
 - [FIRE](https://firingfire.herokuapp.com/)  Third part of "The Smirk" project: Max Sharpe Ratio Portfolio of 5 stocks
 - [Trading the Crisis](https://tradingideas.herokuapp.com/) Trading during the crisis with a Macroeconomics approach
 - [Valuation Model. A Piotroski Approach](https://valuationideas.herokuapp.com/) Valuation Model Approach based on Piotroski f-score
-- [Lia API](https://lia-defi.herokuapp.com/docs#/) API for quantitative data such as Crypto time series  and Macroeconomics data
-- [A* Algorithm](https://github.com/leo-ai-for-trading/Dynamic-Programming/blob/main/Projects/A*algorithm/pathfindig.py) A star Algorithm written in Python
+- [Lia API](https://lia-defi.herokuapp.com/docs#/) **API** for quantitative data such as Crypto time series  and Macroeconomics data
+- [A* Algorithm](https://github.com/leo-ai-for-trading/Dynamic-Programming/blob/main/Projects/A*algorithm/pathfindig.py) **A star** Algorithm written in Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
