@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on [Trading Engine](https://github.com/leo-ai-for-trading/Finance-OOP)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Open-source project**
 
 - 🔭 Project:
-- [Finance Dashboard](https://github.com/leo-ai-for-trading/finance-dashboard) in Python by using **streamlit** for UI and getting data from r\wallstreetbets and Elon Musk twitter and insert in database using **sqlite**
+- [Trading Eng](https://github.com/leo-ai-for-trading/Trading-Eng) **OOP** in **Python**, which includes development of trading strategy such as IBS(Internal Bar Strenght Indicator) and create database for performance report in **SQL** 
 - [Max Sharpe Ratio Portfolio](https://github.com/leo-ai-for-trading/Finance-Object-Oriented-Programming-in-Python/tree/main/Max-Sharpe-Ratio-Portfolio-one-function) Optimization portfolio technique written in Python
 - [The Smirk](https://thesmirk.herokuapp.com/) A Quantitative Platform for backtesting strategies for users with no-coding knowledge
 - [The Smile](https://thesmile.herokuapp.com/) Second part of "The Smirk" project: applied **ML models**, using **fbprophet** library, for predicting stocks
