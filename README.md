@@ -5,13 +5,14 @@
 
 ![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
 
-- 🔭 I’m currently working on [Trading Engine](https://github.com/leo-ai-for-trading/Finance-OOP)
+- 🔭 I’m currently working on [Crypto-Arb](https://github.com/leo-ai-for-trading/Crypto-Arb)
 
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Open-source project**
 
 - 🔭 Project:
+- [Crypto Arbitrage](https://github.com/leo-ai-for-trading/Crypto-Arb) **OOP** in **Python**, that includes *Multi-Currency Arbitrage* strategy with **Bellman-Ford algorithm** between Cryptos using **binace API**
 - [Trading Eng](https://github.com/leo-ai-for-trading/Trading-Eng) **OOP** in **Python**, which includes development of trading strategy such as IBS(Internal Bar Strenght Indicator) and create database for performance report in **SQL** 
 - [Max Sharpe Ratio Portfolio](https://github.com/leo-ai-for-trading/Finance-Object-Oriented-Programming-in-Python/tree/main/Max-Sharpe-Ratio-Portfolio-one-function) Optimization portfolio technique written in Python
 - [The Smirk](https://thesmirk.herokuapp.com/) A Quantitative Platform for backtesting strategies for users with no-coding knowledge
