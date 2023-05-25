@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Attilio</h1>
 <h3 align="center">Banking and Finance student from Italy</h3>
 
-
+![https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif]
 - 🔭 I’m currently working on [Crypto-Arb](https://github.com/leo-ai-for-trading/Crypto-Arb)
 
 - 🌱 I’m currently learning **C++**
