@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Attilio</h1>
 <h3 align="center">Banking and Finance student from Italy</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&color=39F73A&background=00000001&center=true&vCenter=true&width=435&lines=Hi+I'm+Attilio;Welcome+to+my+profile)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&color=39F73A&background=00000001&center=true&vCenter=true&width=435&lines=Hi+I'm+Attilio;Welcome+to+my+profile)](https://git.io/typing-svg)
 ![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
 
 - 🔭 I’m currently working on [Crypto-Arb](https://github.com/leo-ai-for-trading/Crypto-Arb)
