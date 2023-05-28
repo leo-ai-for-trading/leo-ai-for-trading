@@ -2,11 +2,10 @@
 <h3 align="center">Banking and Finance student from Italy</h3>
 
 ![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
-- 🔭 I’m currently working on [Crypto-Arb](https://github.com/leo-ai-for-trading/Crypto-Arb)
+- 🔭 I’m currently collaborating on [QuantConnect]([https://github.com/leo-ai-for-trading/Crypto-Arb](https://github.com/leo-ai-for-trading/Research))
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **Open-source project**
 
 - 🔭 Project:
 - [Crypto Arbitrage](https://github.com/leo-ai-for-trading/Crypto-Arb) **OOP** in **Python**, that includes *Multi-Currency Arbitrage* strategy with **Bellman-Ford algorithm** between Cryptos using **binace API**
