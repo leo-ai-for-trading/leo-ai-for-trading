@@ -2,7 +2,7 @@
 <h3 align="center">Banking and Finance student from Italy</h3>
 
 ![](https://github.com/leo-ai-for-trading/leo-ai-for-trading/blob/main/finance.gif)
-- 🔭 I’m currently working on open-source project: [QuantConnect](https://github.com/leo-ai-for-trading/Research)
+- 🔭 I’m currently working as a Software Engineer
 
 - 🌱 I’m currently learning **C++**
 
